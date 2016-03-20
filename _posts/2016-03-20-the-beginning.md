@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Beginning
-datePublished: '2016-03-20T19:35:20.451Z'
-dateModified: '2016-03-20T19:35:11.083Z'
+datePublished: '2016-03-20T20:34:12.146Z'
+dateModified: '2016-03-20T20:31:14.347Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-20-the-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-the-beginning.md
-published: true
 url: the-beginning/index.html
 _type: Article
 
