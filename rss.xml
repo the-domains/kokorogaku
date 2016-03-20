@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[kokorogaku]]></title>
         <description><![CDATA[kokorogaku]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kokorogaku/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 19:36:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 20:34:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kokorogaku/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe68edc-ca40-4540-862d-11618fcccc07.jpg">]]></description>
-            <link>undefinedthe-beginning/index.html</link>
+            <link>https://thegrid.ai/kokorogaku/the-beginning/index.html</link>
             <guid isPermaLink="false">5d9422cb-7beb-4333-8c77-4d0083de7cc1</guid>
-            <pubDate>Sun, 20 Mar 2016 19:35:20 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 20:34:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
