@@ -1,0 +1,28 @@
+name: kokorogaku
+favicon: null
+layout_spectrum: 0.31457082787528634
+typography_spectrum: 0.6714183681178838
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7393112687859684
+  lightness: 0.8284294435288757
+  saturation: 0.5243405543733388
+  rhythmicContrast: 0.03787261247634888
+purpose: []
